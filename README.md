@@ -59,13 +59,18 @@
 | 🧭 [**EKF Robot**](https://github.com/pruthvirajshinde2468-source/ekf-robot) | Extended Kalman Filter state estimation | GNC |
 | 🚀 **Rideshare Launch Window Optimizer** | Finds launch windows for rideshare missions | Mission analysis |
 | 🛰️ **CubeSat Mission Operations (YAMCS)** | Ground-segment mission control environment | Ground segment |
-| 🌪️ **Max-Q Survival Analysis Tool** | Analyses launch vehicle loads at maximum dynamic pressure | Launch vehicles |
-| 🤖 **AI Job Agent & Scraper Pipeline** | React / Node / SQLite / Playwright / LLM pipeline | Automation |
+| 🌪️ [**Max-Q Survival Analysis Tool**](https://github.com/pruthvirajshinde2468-source/Max-Q-Survival-Analysis-Tool-) | Launch ascent analysis around maximum dynamic pressure | Launch vehicles |
+| 🪐 [**Orbital Mechanics Visualizer**](https://github.com/pruthvirajshinde2468-source/Orbital-Mechanics-Visualizer) | Visualises orbits and orbital mechanics | Astrodynamics |
+| 🎛️ [**Satellite PID Controller Simulation**](https://github.com/pruthvirajshinde2468-source/Satellite-altitude-PlD-controller-simulation) | PID control simulation for a satellite | AOCS |
+| 📈 [**Satellite Data Analysis**](https://github.com/pruthvirajshinde2468-source/Satellite-Data-Analysis) | Analysis of satellite data in Python | Data |
+| 🤖 [**AI Job Agent & Scraper Pipeline**](https://github.com/pruthvirajshinde2468-source/ai-job-agent) | React / Node / SQLite / Playwright / LLM pipeline | Automation |
 
 <details>
 <summary>🎲 <b>Side hobby projects</b> (just for fun)</summary>
 
 - 💰 [**Personal Finance Advisor**](https://github.com/pruthvirajshinde2468-source/Personal_Finance_advisor) — a small Python tool I built to manage my own money
+- 📊 [**AI Trading**](https://github.com/pruthvirajshinde2468-source/AI-Trading) — algorithmic forex trading experiments
+- 🗓️ [**Life Tracker**](https://github.com/pruthvirajshinde2468-source/Life_tracker) — personal tracker
 
 </details>
 
